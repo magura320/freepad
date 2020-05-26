@@ -4,7 +4,7 @@
 #define INT_HEAP_LEN 2688
 // to make TL work, need patch this macroses in SDK
 // #define TOUCHLINK_KEY_INDEX TOUCHLINK_KEY_INDEX_MASTER
-// #define TOUCHLINK_INTERNAL_ENDPOINT 42
+#define TOUCHLINK_INTERNAL_ENDPOINT 42
 
 #define TP2_LEGACY_ZC
 //patch sdk
