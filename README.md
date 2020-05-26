@@ -1,3 +1,5 @@
+THIS IS THE FREEPAD MOD - https://github.com/diyruz/freepad
+
 # Features list:
 1. Single/double/tripple/quadriple/many_x/hold&release
 2. Touchlink reset
