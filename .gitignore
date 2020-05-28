@@ -54,3 +54,4 @@ Source/version.c
 !.vscode/
 .vscode/settings.json
 firmwares/*
+*.dnx
